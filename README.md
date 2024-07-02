@@ -44,7 +44,20 @@
                 <li>Atributos: id_operario, nombre, apellido y id_localidad</li>
             </ol>
         </li>
-    </ol>
+        <li>Servicios
+            <ol>
+                <li>Contiene información de los servicios ofrecidos</li>
+                <li>Atributos: id_servicio, tipo_seervicio y precio</li>
+            </ol>
+        </li>
+        <li>Turnos_servicios
+            <ol>
+                <li>Relaciona turnos con los servicios solicitados en ese turno</li>
+                <li>Atributos: id_turno y id_servicio</li>
+            </ol>
+        </li>
+
+</ol>
 
 
 
