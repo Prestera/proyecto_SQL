@@ -13,9 +13,11 @@
 
 
  <h3>Tablas:</h3>
-<ul>
-    <li>Clientes : 
-        <ul> Contiene información de los clientes</ul>
+<ol>
+    <li>Clientes :  
+</ol>    
+       <li> Contiene información de los clientes</li>
+       <li> Atributos: id_cliente, nombre, apellido, id_localidad, teléfono, dirección, instagram y fidelidad </li>
     </li>
 
 
