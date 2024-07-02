@@ -1,8 +1,22 @@
 # proyecto_SQL Pipicucu
 <h2>CREACION BASE DE UNA APP PARA OPTIMIZAR LA RESERVA DE TURNOS </h2>
 
-<h3>Problema:</h3>
+<h3>Introducción y problemática:</h3>
+ Somos una empresa dedicada a la limpieza y desinfección de tapizados, nacida en la ciudad de Rosario y brindando nuestro servicio en más de 15 ciudades del país. Uno de nuestros principales problemas es la reserva de turnos. Por ejemplo, cuando se carga un turno, no se sabe quién lo realizó, y hay que apelar a la memoria del personal encargado. Otro problema es que, al brindar el servicio en tantas ciudades, ha ocurrido que se confundan y asignen un turno de una localidad a un operario de otra
 
+ <h3>Descripción del Problema: </h3>
+
+
+ <h3>Objetivo:</h3>  
+
+ <h3>Descripción de la Base de Datos - Gestión de Reservas de turnos Pipicucu </h3>
+
+
+ <h3>Tablas:</h3>
+<ul>
+    <li>Clientes : 
+        <ul> Contiene información de los clientes</ul>
+    </li>
 
 
 
