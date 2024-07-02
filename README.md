@@ -46,7 +46,7 @@
     
        <li> Almacena información del personal de limpieza</li>
        <li> Atributos: id_operario, nombre, apellido y id_localidad</li>
-    
+ </ol>   
 
 
 
