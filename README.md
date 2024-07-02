@@ -1,4 +1,8 @@
 # proyecto_SQL Pipicucu
+Primer pre entrega
+Hernán Prestera 
+
+
 <h2>CREACION BASE DE UNA APP PARA OPTIMIZAR LA RESERVA DE TURNOS </h2>
 
 <h3>Introducción y problemática:</h3>
