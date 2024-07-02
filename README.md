@@ -15,35 +15,35 @@
  <h3>Tablas:</h3>
 <ol>
     <li>Clientes:  
-</ol>    
+   
        <li> Almacena información de los clientes</li>
        <li> Atributos: id_cliente, nombre, apellido, id_localidad, teléfono, dirección, instagram y fidelidad </li>
     </li>
 
-<ol>
+
     <li>Administrativas:  
-</ol>    
+  
        <li> Contiene información empleadas encargadas de tomar turnos</li>
        <li> Atributos: id_administrativa, nombre, apellido</li>
     </li>
 
-<ol>
+
     <li>Turnos:  
-</ol>    
+   
        <li>Contiene información de turnos asignados</li>
        <li> Atributos: id_turno, fecha, horario, id_operario, id_cliente, id_localidad, id_administrativa y asignado</li>
     </li>
 
-<ol>
+
     <li>Localidades:  
-</ol>    
+    
        <li> Contiene información de las ciudades donde se brinda el servicio</li>
        <li> Atributos: id_localidad, provincia y ciudad </li>
     </li>
 
-<ol>
+
     <li>Operarios :  
-</ol>    
+    
        <li> Almacena información del personal de limpieza</li>
        <li> Atributos: id_operario, nombre, apellido y id_localidad</li>
     </li>
