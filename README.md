@@ -14,40 +14,37 @@
 
  <h3>Tablas:</h3>
 <ol>
-    Clientes:  
-   
-       <li> Almacena información de los clientes</li>
-       <li> Atributos: id_cliente, nombre, apellido, id_localidad, teléfono, dirección, instagram y fidelidad </li>
-    
-
-
-    Administrativas:  
-  
-       <li> Contiene información empleadas encargadas de tomar turnos</li>
-       <li> Atributos: id_administrativa, nombre, apellido</li>
-    
-
-
-    Turnos:  
-   
-       <li>Contiene información de turnos asignados</li>
-       <li> Atributos: id_turno, fecha, horario, id_operario, id_cliente, id_localidad, id_administrativa y asignado</li>
-    
-
-
-    Localidades:  
-    
-       <li> Contiene información de las ciudades donde se brinda el servicio</li>
-       <li> Atributos: id_localidad, provincia y ciudad </li>
-    
-
-
-    Operarios :  
-    
-       <li> Almacena información del personal de limpieza</li>
-       <li> Atributos: id_operario, nombre, apellido y id_localidad</li>
- </ol>   
-
+        <li>Clientes
+            <ol>
+                <li>Almacena información de los clientes</li>
+                <li>Atributos: id_cliente, nombre, apellido, id_localidad, teléfono, dirección, instagram y fidelidad</li>
+            </ol>
+        </li>
+        <li>Administrativas
+            <ol>
+                <li>Contiene información de las empleadas encargadas de tomar turnos</li>
+                <li>Atributos: id_administrativa, nombre, apellido</li>
+            </ol>
+        </li>
+        <li>Turnos
+            <ol>
+                <li>Contiene información de turnos asignados</li>
+                <li>Atributos: id_turno, fecha, horario, id_operario, id_cliente, id_localidad, id_administrativa y asignado</li>
+            </ol>
+        </li>
+        <li>Localidades
+            <ol>
+                <li>Contiene información de las ciudades donde se brinda el servicio</li>
+                <li>Atributos: id_localidad, provincia y ciudad</li>
+            </ol>
+        </li>
+        <li>Operarios
+            <ol>
+                <li>Almacena información del personal de limpieza</li>
+                <li>Atributos: id_operario, nombre, apellido y id_localidad</li>
+            </ol>
+        </li>
+    </ol>
 
 
 
